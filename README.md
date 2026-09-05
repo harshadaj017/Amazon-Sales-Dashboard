@@ -28,10 +28,6 @@ The Amazon Sales Dashboard is an interactive data visualization project created 
 - Regional Sales Analysis
 - Interactive Filters and Slicers
 
-## 📷 Dashboard Preview
-
-Add your dashboard screenshot here.
-
 ## 📈 Key Insights
 
 - Identified top-performing product categories
